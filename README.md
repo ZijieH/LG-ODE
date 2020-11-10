@@ -2,10 +2,9 @@
 
 LG-ODE is an overall framework for learning continuous multi-agent system dynamics from irregularly-sampled partial observations considering graph structure.
 
-You can see our Neurips 2020 paper **Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations**”  for more details.
+You can see our Neurips 2020 paper [“**Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations**”](https://arxiv.org/pdf/1902.11136.pdf) for more details.
 
-This implementation of LG-ODE is based on [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) API
-
+This implementation of LG-ODE is based on [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) API.
 ## Data Generation
 
 Generate simulated datasets (spring, charged particles) by running:
