@@ -36,7 +36,7 @@ This implementation is based on pytorch_geometric. To run the code, you need the
   - torch-scatter==2.0.4
   - torch-sparse==0.6.1
 
-- [torchdiffeq](https://github.com/rtqichen/torchdiffeq)
+- [torchdiffeq 0.0.1](https://github.com/rtqichen/torchdiffeq)
 
 - [numpy 1.16.1](https://numpy.org/)
 
